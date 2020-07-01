@@ -1,0 +1,28 @@
+body{
+	background-color: purple;
+}
+
+.login{
+	background-color: #32c5d2;
+}
+
+#forgot{
+	color: black;
+}
+
+#forgot:hover {
+	color: #32c5d2;
+}
+
+#signup{
+	background-color: #f7f7f7;
+} 
+
+#signup button{
+	border: 2px solid black;
+}
+
+#signup button:hover{
+	background-color: gray;
+	color: white;
+}
